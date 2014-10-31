@@ -1,0 +1,12 @@
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/1/Tv244.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/1/Tv245.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/1/Tv246.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/1/Tv247.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/1/Tv263.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/1/Tv264.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/1/Tv265.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/1/Tv286.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/1/Tv287.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/1/Tv288.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/2/Tv104.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/2/Tv33.jpg" -bg bg -fg fg

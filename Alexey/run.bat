@@ -1,0 +1,12 @@
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/12.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/13.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/14.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/15.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/16.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/17.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/18.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/19.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/6.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/7.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/8.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/9.jpg" -bg bg -fg fg

@@ -1,0 +1,13 @@
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/4/k32.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/5/27.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/5/28.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/5/29.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/5/30.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/5/31.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/5/32.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/5/33.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/5/34.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/5/35.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/5/36.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/10.jpg" -bg bg -fg fg
+"../bin/TrainingSampleMaker.exe" "../Images/New Images From Anna/6/11.jpg" -bg bg -fg fg
