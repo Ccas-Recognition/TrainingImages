@@ -11,7 +11,7 @@
 P.S. Папку `bin` из репозитория [TrainingSampleMaker](https://bitbucket.org/Ccas-Recognition/trainingsamplemaker) в одноимённую папку можно копировать частично: нужны только все `*.dll` файлы и `TrainingSampleMaker.exe`.
 
 
-Воспроизводить разметку можно запустив в каждой директории файл `run.bat`. Для запуска также требуется наличие папок `Images\New Images From Anna\<1-6>` (папка ` `Images\New Images From Anna` с шестью вложенными папками изображений внутри).
+Воспроизводить разметку можно запустив в каждой директории файл `run.bat`. Для запуска также требуется наличие папок `Images\New Images From Anna\<1-6>` (папка `Images\New Images From Anna` с шестью вложенными папками изображений внутри).
 
 ---
 
